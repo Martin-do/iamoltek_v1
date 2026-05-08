@@ -7,16 +7,16 @@ const stories = {
     kicker: 'Profile',
     title: 'The person behind Oltek',
     body: [
-      'Oyewale Areoye is presented here as a professional, public-facing individual, and community-minded leader. The site keeps the focus on his personal story, while acknowledging the sectors that shaped his work.',
-      'His profile should continue to grow with verified milestones, interviews, photographs, and achievements supplied by the owner or drawn from approved public sources.',
+      'Oyewale Areoye stands at the intersection of enterprise, public presence, cultural recognition, and community-minded leadership.',
+      'His story is shaped by work across operations, real estate-facing ventures, facility management, strategy, and service.',
     ],
   },
   honour: {
     kicker: 'Heritage',
     title: 'Atobase of Okeluse Kingdom',
     body: [
-      'The Atobase title gives the personal brand a cultural anchor. It should be treated with dignity: not as decoration, but as a sign of recognition, responsibility, and rooted identity.',
-      'When official coronation photos, dates, and captions are confirmed, this page can become a richer archive of the honour and its meaning.',
+      'The Atobase title carries honour, heritage, and responsibility. It adds a rooted cultural dimension to the Oltek identity.',
+      'It reflects recognition from community and tradition, and a call to serve with dignity.',
     ],
   },
   work: {
@@ -24,7 +24,7 @@ const stories = {
     title: 'Professional footprint',
     body: [
       'The work story covers strategy, operations, real estate-facing ventures, facility management, and enterprise leadership without turning this personal site into a company brochure.',
-      'Specific businesses can influence tone and credibility, but named features should remain limited to what the owner wants represented as personal.',
+      'The emphasis remains on the person: judgment, discipline, service, and the professional range behind the Oltek name.',
     ],
   },
   impact: {
@@ -39,8 +39,8 @@ const stories = {
     kicker: 'Moments',
     title: 'Selected public moments',
     body: [
-      'This gallery should only carry images with true context. Until captions are confirmed, broad labels are better than pretending every picture has a specific event story.',
-      'The next content pass should replace placeholders with approved Instagram or supplied photographs and short, factual captions.',
+      'These moments capture honour, public presence, and the visual identity surrounding the Oltek story.',
+      'Each image is part of a wider record of personal milestones, traditional recognition, and community-facing life.',
     ],
   },
 };

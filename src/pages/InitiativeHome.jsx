@@ -66,8 +66,7 @@ const InitiativeHome = () => {
             <span className="kicker">Focus</span>
             <h2>Structured support with a human face.</h2>
             <p>
-              The Initiative should feel grounded, credible, and close to real needs: learning, inclusion, enterprise,
-              and wellness.
+              The Initiative is grounded in real needs: learning, inclusion, enterprise, and wellness.
             </p>
           </div>
           <div className="focus-grid">
@@ -88,8 +87,7 @@ const InitiativeHome = () => {
             <span className="kicker">In The Field</span>
             <h2>Show the work only when the story is true.</h2>
             <p>
-              This section uses the Initiative’s launch material for now. Real outreach photos can replace this once
-              the Initiative starts publishing field updates.
+              The launch message is simple: equip people with skills, support communities, and build a better tomorrow.
             </p>
           </div>
           <div className="field-gallery">

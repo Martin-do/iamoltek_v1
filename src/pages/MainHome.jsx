@@ -51,8 +51,8 @@ const MainHome = () => {
               Oltek is a statement of work, honour, and public service.
             </h1>
             <p>
-              Entrepreneur, operator, community advocate, and Atobase of Okeluse Kingdom. A personal platform for the
-              professional journey, cultural recognition, and impact work of Oyewale Areoye.
+              Entrepreneur, operator, community advocate, and Atobase of Okeluse Kingdom, with a journey shaped by
+              enterprise, cultural recognition, and service.
             </p>
             <div className="hero-actions">
               <a className="button button-primary" href="#profile">
@@ -111,8 +111,8 @@ const MainHome = () => {
               and trust.
             </p>
             <p>
-              The site frames his personal story with clarity: professional credibility, cultural grounding,
-              public-facing responsibility, and community-minded work.
+              His story brings together professional credibility, cultural grounding, public responsibility, and a
+              steady commitment to people.
             </p>
             <div className="signal-list">
               <Link to="/story/work"><ShieldCheck size={18} /> Integrity and accountability</Link>
@@ -131,8 +131,8 @@ const MainHome = () => {
           </div>
           <div>
             <p>
-              The title adds a cultural centre to the Oltek story: recognition, rootedness, and a responsibility to
-              represent more than personal success.
+              The Atobase title reflects honour, heritage, and a responsibility to serve with dignity beyond personal
+              success.
             </p>
             <Link className="text-link" to="/story/honour">Read more <ArrowUpRight size={16} /></Link>
           </div>
@@ -164,9 +164,9 @@ const MainHome = () => {
         <div className="container">
           <div className="section-heading compact">
             <span className="kicker">Selected Moments</span>
-            <h2>Personal moments with real context.</h2>
+            <h2>Moments of presence and honour.</h2>
             <p>
-              This section stays small until more approved personal photos and captions are supplied.
+              A glimpse into the personal, professional, and traditional moments that shape the Oltek public identity.
             </p>
           </div>
           <div className="moments-grid">
@@ -187,7 +187,7 @@ const MainHome = () => {
         <div className="container initiative-panel">
           <div>
             <span className="kicker">The Initiative</span>
-            <h2>Impact should feel practical, visible, and close to people.</h2>
+            <h2>Practical impact, built close to people.</h2>
           </div>
           <div>
             <p>
